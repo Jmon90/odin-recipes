@@ -3,7 +3,9 @@ body {
     background-color: black;
     font-family: Helvetica, ;
 }
-
+strong {
+    color:orange;
+}
 a {
     color:white;
 }
